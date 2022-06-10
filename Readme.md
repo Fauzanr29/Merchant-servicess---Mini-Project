@@ -7,7 +7,7 @@ This repository contains the full code and documentation for Merchant-servicess.
 2. Entity Relationship Diagram
 
 ## 1. Architecture Diagram
-![Architecture Diagram](../Mini%20Project%20Merchant%20Services_Tb%20Fauzan%20Rachman/img/Architecture-Diagram.jpg)
+![Architecture Diagram](img/Architecture-Diagram.jpg)
 
 Penjelasan:
 Pada gambar architecture diagram diatas browser  berinteraksi dengan REST API Account untuk melakukan login lalu akan diteruskan ke database Account.
@@ -16,7 +16,7 @@ Setelah itu browser akan meminta request ke REST API untuk mengakses Product ser
 
 
 ## 2. Entity Relationship Diagram
-![Entity Relationship Diagram](../Mini%20Project%20Merchant%20Services_Tb%20Fauzan%20Rachman/img/ERD-Diagram.jpg)
+![Entity Relationship Diagram](img/ERD-Diagram.jpg)
 
 Penjelasan:
 Pada mini project yang dikembangkan hanya berinteraksi dengan 2 table saja, yiatu; user, dan product.
